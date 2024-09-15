@@ -1,0 +1,8 @@
+
+CMDto start zookeper
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+CMD to strt kafka 
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+5231-BE9E
